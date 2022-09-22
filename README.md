@@ -7,14 +7,14 @@ Adventure Game: Python and Pygame
 <ul>
   <li>This is a game that is an extension of Jack Whitworth's Dungeon Game</li>
   <li><a href="https://github.com/Jack-Writes-Code/Pygame-Dungeon-Game" target="_blank" rel="noopener noreferrer">Link to His Repository</a></li>
-  <li>For the Windows game to work you may need to install</li>
+  <li>For the Windows game to work you may need to install vc_redist.x86.exe (Visual C++ Redistributable for Visual Studio 2015) </li>
   <ul>
-    <li>The Mac App may require permission in your security settings to be adjusted to run.</li>
-    <li>There is a bug that shows an error when you close the Mac App. It does not effect anything.</li>
+    <li>Most Windows machines have this but if you get a error when you run you may have to install.</li>
+    <li>Google "vc_redist.x86.exe" to find it at Microsoft.</li>
   </ul>
 </ul>
 
 <h4><a href="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/GardensSetup.exe" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
 
-<img src="https://github.com/groeneveldwoodstock/GroeneveldShapes/blob/main/Screenshot.png" alt="Screen Shot">
+<img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ScreenShot.png" alt="Screen Shot">
   </body>
