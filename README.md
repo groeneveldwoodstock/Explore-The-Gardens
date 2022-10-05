@@ -14,7 +14,7 @@ Adventure Game: Python and Pygame
   </ul>
 </ul>
 
-<h4><a href="https://drive.google.com/file/d/1WQiUJWArXmodwOHGP71r7Xi8sptH-OaP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
+<h4><a href="https://drive.google.com/file/d/1OztYaWCRMCTVYsfVnb9QcCRxymaXsdGd/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
 
 <img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ScreenShot.png" alt="Screen Shot">
   </body>
