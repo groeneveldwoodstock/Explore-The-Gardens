@@ -20,7 +20,8 @@ Adventure Game: Python and Pygame
 <hr>
 <h4><a href="https://drive.google.com/file/d/1sLqdeuDHeSoPEU35lyYtNR5b8cA_NjDQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac Intel Installer</a></h4>
 <hr>
-<img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ScreenShot.png" alt="Screen Shot">
+<img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ScreenShot.png" alt="Screen Shot" style="width:500px;">
 
+<img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/GardensPlay.png?raw=true" alt="Screen Shot"  style="width:500px;">
 
   </body>
