@@ -13,8 +13,14 @@ Adventure Game: Python and Pygame
     <li>Google "vc_redist.x86.exe" to find it at Microsoft.</li>
   </ul>
 </ul>
-
+<hr>
 <h4><a href="https://drive.google.com/file/d/1OztYaWCRMCTVYsfVnb9QcCRxymaXsdGd/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
-
+<hr>
+<h4><a href="https://drive.google.com/file/d/1us0oY6MKoXfn5LSRm09wI5fUVWDDofne/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac Silicon Installer (M1 and M2)</a></h4>
+<hr>
+<h4><a href="https://drive.google.com/file/d/1sLqdeuDHeSoPEU35lyYtNR5b8cA_NjDQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac Intel Installer</a></h4>
+<hr>
 <img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ScreenShot.png" alt="Screen Shot">
+
+
   </body>
