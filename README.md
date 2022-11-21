@@ -23,5 +23,11 @@ Adventure Game: Python and Pygame
 <img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ScreenShot.png" alt="Screen Shot" style="width:500px;">
 
 <img src="https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/GardensPlay.png?raw=true" alt="Screen Shot"  style="width:500px;">
+<p>
+This project is available on Itch.op
+</p>
+
+[![Explore the Gardens by Groeneveld](https://github.com/groeneveldwoodstock/Explore-The-Gardens/blob/main/ExploreTheGardensItch.png)](https://groeneveld.itch.io/explore-the-gardens)
+</p>
 
   </body>
